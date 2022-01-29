@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="name">Бьёрн</string>
+    <string name="surname">Страуструп</string>
+    <string name="minimalInfo">программист, автор языка программирования C++</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
